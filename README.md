@@ -1,8 +1,7 @@
 # <img src="https://github.com/DeeHawk/viz/blob/master/image/DTrim.gif" width="1000"/> 
 
-## Dilruba Hawk
 
-**Welcome!** I'm Dilruba Hawk, an MBA student with a passion for financial analysis and a strong work ethic. I'm committed to leveraging my skills and knowledge to drive impactful change in the business world, specifically within the field of auditing.
+**Welcome!** Driven MBA candidate with a passion for financial analysis and a strong work ethic.  I leverage my background in finance and experience in cross-functional teams to excel at identifying risks, uncovering growth opportunities, and implementing effective solutions.  Highly adept at analyzing complex financial data and meticulous in ensuring accuracy.  My collaborative approach fosters strong working relationships with clients and internal teams.  This portfolio showcases my skills and experience, and I'm eager to connect with like-minded professionals in the auditing field.
 
 # ✨**My Skills:**
 
