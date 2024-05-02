@@ -4,7 +4,7 @@
 
 **Welcome!** I'm Dilruba Hawk, an MBA student with a passion for financial analysis and a strong work ethic. I'm committed to leveraging my skills and knowledge to drive impactful change in the business world, specifically within the field of auditing.
 
-**My Skills:**
+# ✨**My Skills:**
 
 * **Financial Analysis:** Adept at analyzing complex financial data and identifying potential risks and opportunities.
 * **Problem-Solving:** Skilled at identifying and addressing financial discrepancies and control weaknesses.
@@ -14,13 +14,9 @@
 * **Work Ethic:** Highly committed to deadlines, accuracy, and exceeding client expectations.
 
 
-**This portfolio website:**
-
-This website showcases my skills and accomplishments related to auditing. It may include project descriptions, case studies, or other relevant information demonstrating my capabilities.  
-
 **I'm always looking to connect with like-minded professionals and explore new opportunities in the auditing field.**
 
-## 🚀 Soft Skills:
+# 🚀 Soft Skills:
 
 * **Proactive Problem-Solving:** Identify and address potential financial risks or discrepancies before they escalate.
 * **Effective Collaboration:** Work seamlessly with clients, internal teams, and regulators to ensure efficient and thorough audits.
