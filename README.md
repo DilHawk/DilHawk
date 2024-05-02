@@ -4,8 +4,8 @@ As an MBA student with a passion for business strategy and innovation, I am comm
 
 ## 🚀 Soft Skills:
 
-⚡#Proactive Problem-Solving: Identify and address potential financial risks or discrepancies before they escalate.
-⚡#Effective Collaboration: Work seamlessly with clients, internal teams, and regulators to ensure efficient and thorough audits.
+#⚡Proactive Problem-Solving: Identify and address potential financial risks or discrepancies before they escalate.
+#⚡Effective Collaboration: Work seamlessly with clients, internal teams, and regulators to ensure efficient and thorough audits.
 ⚡Agile and Adaptable: Adjust your approach based on complex financial situations and evolving regulations.
 ⚡Excellent Communication: Clearly and concisely communicate complex financial information to both technical and non-technical audiences.
 ⚡Client Focused: Prioritize client needs and deliver high-quality audit services that add value.
