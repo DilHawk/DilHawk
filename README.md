@@ -1,9 +1,26 @@
 # <img src="https://github.com/DeeHawk/viz/blob/master/image/DTrim.gif" width="1000"/> 
 
-✨As an MBA student with a passion for business strategy and innovation, I am committed to developing the skills and knowledge necessary to drive impactful change in the business world. With a background in finance and experience working in cross-functional teams, I am adept at analyzing complex problems, identifying opportunities for growth, and implementing effective solutions. I bring a strong work ethic, attention to detail, and a collaborative approach to every project I undertake. Through my portfolio website, I aim to showcase my skills and accomplishments, while also connecting with like-minded professionals and exploring new opportunities for growth and development.
+## Dilruba Hawk
+
+**Welcome!** I'm Dilruba Hawk, an MBA student with a passion for financial analysis and a strong work ethic. I'm committed to leveraging my skills and knowledge to drive impactful change in the business world, specifically within the field of auditing.
+
+**My Skills:**
+
+* **Financial Analysis:** Adept at analyzing complex financial data and identifying potential risks and opportunities.
+* **Problem-Solving:** Skilled at identifying and addressing financial discrepancies and control weaknesses.
+* **Attention to Detail:** Meticulous in ensuring accuracy and completeness of financial records.
+* **Communication:** Able to clearly and concisely communicate complex financial information to both technical and non-technical audiences.
+* **Collaboration:** Proven ability to work effectively with clients, internal teams, and regulators.
+* **Work Ethic:** Highly committed to deadlines, accuracy, and exceeding client expectations.
+
+
+**This portfolio website:**
+
+This website showcases my skills and accomplishments related to auditing. It may include project descriptions, case studies, or other relevant information demonstrating my capabilities.  
+
+**I'm always looking to connect with like-minded professionals and explore new opportunities in the auditing field.**
 
 ## 🚀 Soft Skills:
-
 
 * **Proactive Problem-Solving:** Identify and address potential financial risks or discrepancies before they escalate.
 * **Effective Collaboration:** Work seamlessly with clients, internal teams, and regulators to ensure efficient and thorough audits.
